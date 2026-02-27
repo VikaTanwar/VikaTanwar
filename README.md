@@ -57,10 +57,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikaTanwar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=VikaTanwar&show_icons=true&theme=radical&cache_seconds=1800" 
+    alt="Vika Tanwar GitHub Stats" 
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikaTanwar&layout=compact&theme=radical&cache_seconds=1800" 
+    alt="Top Languages" 
+    height="170"
+  />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
