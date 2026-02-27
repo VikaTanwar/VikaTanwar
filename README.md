@@ -58,14 +58,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VikaTanwar&show_icons=true&theme=radical&cache_seconds=1800" 
-    alt="Vika Tanwar GitHub Stats" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VikaTanwar&show_icons=true&theme=radical" 
+    alt="Vika Tanwar GitHub Stats"
     height="170"
   />
-  
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikaTanwar&layout=compact&theme=radical&cache_seconds=1800" 
-    alt="Top Languages" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VikaTanwar&layout=compact&theme=radical" 
+    alt="Top Languages"
     height="170"
   />
 </p>
