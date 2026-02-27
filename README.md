@@ -1,18 +1,80 @@
-# 💫 About Me:
-Hey! 👋 I’m an aspiring Data Scientist currently sharpening my skills in statistics, machine learning, and data analysis — always curious, always learning.
+<h1 align="center">Hi 👋, I'm Vikas Singh</h1>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | Python Developer</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vika_tanwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vika-singh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikassingh192002@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VikaTanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VikaTanwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikaTanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Passionate about turning data into meaningful insights 📊 <br>
+  Currently learning Machine Learning & Generative AI 🚀
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VikaTanwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 📊 Learning **Data Science & Machine Learning**
+- 📈 Strong knowledge of **Advanced Excel & SQL**
+- 🐍 Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)**
+- 🌐 Experience with **API Integration & Web Scraping (Requests, BeautifulSoup)**
+- 🤖 Exploring **Generative AI**
+- 💡 Love solving real-world problems using data
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Plotly  
+- Advanced Excel  
+
+### 🌐 Other Skills
+- API Handling  
+- Web Scraping (Requests, BeautifulSoup)  
+- Data Cleaning & Preprocessing  
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning  
+- Deep Learning  
+- Generative AI  
+- Model Deployment  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VikaTanwar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/vika-singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="vikassingh192002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ *"Turning Data into Decisions"*
