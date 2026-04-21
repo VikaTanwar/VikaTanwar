@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Singh</h1>
-<h3 align="center">Aspiring Data Scientist | Data Analyst | Python Developer</h3>
+<h3 align="center">Aspiring AI Engineer | Data Analyst | Python Developer</h3>
 
 <p align="center">
   Passionate about turning data into meaningful insights 📊 <br>
@@ -12,7 +12,7 @@
 
 - 📊 Learning **Data Science & Machine Learning**
 - 📈 Strong knowledge of **Advanced Excel & SQL**
-- 🐍 Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)**
+- 🐍 Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikitlearn, TensorFlow)**
 - 🌐 Experience with **API Integration & Web Scraping (Requests, BeautifulSoup)**
 - 🤖 Exploring **Generative AI**
 - 💡 Love solving real-world problems using data
