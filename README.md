@@ -12,7 +12,7 @@
 
 - 📊 Learning **Data Science & Machine Learning**
 - 📈 Strong knowledge of **Advanced Excel & SQL**
-- 🐍 Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikitlearn, TensorFlow)**
+- 🐍 Skilled in **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow)**
 - 🌐 Experience with **API Integration & Web Scraping (Requests, BeautifulSoup)**
 - 🤖 Exploring **Generative AI**
 - 💡 Love solving real-world problems using data
